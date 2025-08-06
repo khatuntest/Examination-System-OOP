@@ -1,0 +1,11 @@
+C:\Users\Tag\OneDrive - Cairo University - Students\Desktop\BackEndOut\.net\Projects\ProjectExams\ExamSystem\ExamSystem\bin\Debug\net9.0\ExamSystem.deps.json
+C:\Users\Tag\OneDrive - Cairo University - Students\Desktop\BackEndOut\.net\Projects\ProjectExams\ExamSystem\ExamSystem\bin\Debug\net9.0\ExamSystem.dll
+C:\Users\Tag\OneDrive - Cairo University - Students\Desktop\BackEndOut\.net\Projects\ProjectExams\ExamSystem\ExamSystem\bin\Debug\net9.0\ExamSystem.pdb
+C:\Users\Tag\OneDrive - Cairo University - Students\Desktop\BackEndOut\.net\Projects\ProjectExams\ExamSystem\ExamSystem\obj\Debug\net9.0\ExamSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tag\OneDrive - Cairo University - Students\Desktop\BackEndOut\.net\Projects\ProjectExams\ExamSystem\ExamSystem\obj\Debug\net9.0\ExamSystem.AssemblyInfoInputs.cache
+C:\Users\Tag\OneDrive - Cairo University - Students\Desktop\BackEndOut\.net\Projects\ProjectExams\ExamSystem\ExamSystem\obj\Debug\net9.0\ExamSystem.AssemblyInfo.cs
+C:\Users\Tag\OneDrive - Cairo University - Students\Desktop\BackEndOut\.net\Projects\ProjectExams\ExamSystem\ExamSystem\obj\Debug\net9.0\ExamSystem.csproj.CoreCompileInputs.cache
+C:\Users\Tag\OneDrive - Cairo University - Students\Desktop\BackEndOut\.net\Projects\ProjectExams\ExamSystem\ExamSystem\obj\Debug\net9.0\ExamSystem.dll
+C:\Users\Tag\OneDrive - Cairo University - Students\Desktop\BackEndOut\.net\Projects\ProjectExams\ExamSystem\ExamSystem\obj\Debug\net9.0\refint\ExamSystem.dll
+C:\Users\Tag\OneDrive - Cairo University - Students\Desktop\BackEndOut\.net\Projects\ProjectExams\ExamSystem\ExamSystem\obj\Debug\net9.0\ExamSystem.pdb
+C:\Users\Tag\OneDrive - Cairo University - Students\Desktop\BackEndOut\.net\Projects\ProjectExams\ExamSystem\ExamSystem\obj\Debug\net9.0\ref\ExamSystem.dll

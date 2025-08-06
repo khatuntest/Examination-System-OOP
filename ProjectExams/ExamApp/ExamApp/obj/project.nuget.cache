@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "xwOKVGWuhy8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tag\\OneDrive - Cairo University - Students\\Desktop\\BackEndOut\\.net\\Projects\\ProjectExams\\ExamApp\\ExamApp\\ExamApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tag\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\9.0.6\\microsoft.dotnet.ilcompiler.9.0.6.nupkg.sha512",
+    "C:\\Users\\Tag\\.nuget\\packages\\microsoft.net.illink.tasks\\9.0.6\\microsoft.net.illink.tasks.9.0.6.nupkg.sha512",
+    "C:\\Users\\Tag\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1-preview.1\\microsoft.visualstudio.azure.containers.tools.targets.1.22.1-preview.1.nupkg.sha512",
+    "C:\\Users\\Tag\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\9.0.6\\runtime.win-x64.microsoft.dotnet.ilcompiler.9.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}

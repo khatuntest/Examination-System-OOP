@@ -1,0 +1,66 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "ExamApp/1.0.0": {
+        "dependencies": {
+          "ExamSystem": "1.0.0",
+          "Microsoft.DotNet.ILCompiler": "9.0.6",
+          "Microsoft.NET.ILLink.Tasks": "9.0.6",
+          "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": "1.22.1-Preview.1"
+        },
+        "runtime": {
+          "ExamApp.dll": {}
+        }
+      },
+      "Microsoft.DotNet.ILCompiler/9.0.6": {},
+      "Microsoft.NET.ILLink.Tasks/9.0.6": {},
+      "Microsoft.VisualStudio.Azure.Containers.Tools.Targets/1.22.1-Preview.1": {},
+      "ExamSystem/1.0.0": {
+        "runtime": {
+          "ExamSystem.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExamApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.DotNet.ILCompiler/9.0.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-O7Row/kOgEA3PXpeCVKpDJ9ooAoJDoKoxpZC86voOAwV2NA1jTbQ0Nn0VCuoTT/IvU0T7YNlPldAS0mOrppXmw==",
+      "path": "microsoft.dotnet.ilcompiler/9.0.6",
+      "hashPath": "microsoft.dotnet.ilcompiler.9.0.6.nupkg.sha512"
+    },
+    "Microsoft.NET.ILLink.Tasks/9.0.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-TXy3SbJzGXQbxxIxCjdrp8bwEyTDImyYNpTpd6v7P3JL2Y7dno8EYG7dPezfYTa5SoWKdhbH9cbnwHHs3BR5gA==",
+      "path": "microsoft.net.illink.tasks/9.0.6",
+      "hashPath": "microsoft.net.illink.tasks.9.0.6.nupkg.sha512"
+    },
+    "Microsoft.VisualStudio.Azure.Containers.Tools.Targets/1.22.1-Preview.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-cX5j5jEIx4si2ixyU5h1pHvVKhgK/RyL6UQrKYKv61ULJuRk/h8LOM2hnVW8JPAKlnmvWilMtEOcUTcTV2n+kg==",
+      "path": "microsoft.visualstudio.azure.containers.tools.targets/1.22.1-preview.1",
+      "hashPath": "microsoft.visualstudio.azure.containers.tools.targets.1.22.1-preview.1.nupkg.sha512"
+    },
+    "ExamSystem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
